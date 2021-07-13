@@ -1,5 +1,7 @@
 # Infrastructure-as-code Training
 
+# causing trouble - pull request conflict
+
 This repo contains materials for learning how to use infrastructure-as-code practices, including:
 
 1. An [example Ruby on Rails app](/example-rails-app) used for demonstration purposes.
